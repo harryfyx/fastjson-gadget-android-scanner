@@ -1,0 +1,1 @@
+{"hhhkb.ctf.fastjson_android_ctf.beans.Level0": ["setExec"], "hhhkb.ctf.fastjson_android_ctf.beans.Level1": ["setName"]}
